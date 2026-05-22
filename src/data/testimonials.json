@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "rating": 5,
+    "text": "The food here is amazing! Best Paneer Butter Masala in town."
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "rating": 4,
+    "text": "Great ambiance and excellent service. Will definitely visit again."
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "rating": 5,
+    "text": "Highly recommend for birthday parties. The staff was very cooperative."
+  }
+]

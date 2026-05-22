@@ -1,0 +1,26 @@
+[
+  {
+    "type": "image",
+    "src": "restaurant gallery/1.jpeg"
+  },
+  {
+    "type": "image",
+    "src": "restaurant gallery/2.jpeg"
+  },
+  {
+    "type": "image",
+    "src": "restaurant gallery/3.jpeg"
+  },
+  {
+    "type": "image",
+    "src": "restaurant gallery/4.jpeg"
+  },
+  {
+    "type": "video",
+    "src": "restaurant gallery/v1.mp4"
+  },
+  {
+    "type": "video",
+    "src": "restaurant gallery/v2.mp4"
+  }
+]

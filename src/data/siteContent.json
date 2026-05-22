@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Best Place for Birthday\\nCelebration",
+    "contact": "Contact : 97999777228",
+    "background": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg"
+  },
+  "contact": {
+    "address": "Agrasen Nagar, Sanwar Road, Fatehnagar, Dist Udaipur",
+    "phone": "97999777228",
+    "email": "ronakmor1008@gmail.com",
+    "whatsappNumber": "917620381329"
+  },
+  "header": {
+    "bannerImg": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg",
+    "bannerFallback": "https://images.pexels.com/photos/12737799/pexels-photo-12737799.jpeg",
+    "logo": "/logo-optimized.jpg",
+    "title": "Viyonas Restaurant"
+  },
+  "sections": {
+    "special": {
+      "title": "Today's Special",
+      "subtitle": "Our handpicked specials for you"
+    },
+    "menu": {
+      "title": "Menu",
+      "subtitle": "Discover our delicious dishes"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "Glimpses of Viyonas"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with us"
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "subtitle": "What our customers say"
+    }
+  },
+  "footer": {
+    "title": "Viyonas Restaurant",
+    "text": "Thank you for dining with us! Have a wonderful day."
+  }
+}
