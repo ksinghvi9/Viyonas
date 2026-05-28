@@ -10,7 +10,7 @@ import CartFloater from '../components/Common/CartFloater';
 import CartModal from '../components/Common/CartModal';
 import Lightbox from '../components/Common/Lightbox';
 import { useCart } from '../hooks/useCart';
-import menuData from '../data/menu.json';
+import menuData from '../data/menu_optimized.json';
 
 const Home = () => {
   const { cart, addToCart, updateItemQty, getTotalQty, getTotalPrice } = useCart();

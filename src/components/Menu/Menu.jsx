@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import siteContent from '../../data/siteContent.json';
-import menuData from '../../data/menu.json';
+import menuData from '../../data/menu_optimized.json';
 import CategoryPills from './CategoryPills';
 import MenuItems from './MenuItems';
 
