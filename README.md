@@ -1,16 +1,86 @@
-# React + Vite
+# 🍽️ Viyonas Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive restaurant website developed for a real client to improve their online presence and provide customers with an easy way to explore the menu and place orders.
 
-Currently, two official plugins are available:
+> Status: Live & Deployed  
+> Type: Freelance Project  
+> Live Demo: https://viyonas.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+📖 Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was developed for a local restaurant as a freelance website. The primary goal was to create a clean, mobile-friendly website that allows customers to browse the menu, view restaurant information, and place orders through WhatsApp.
 
-## Expanding the ESLint configuration
+The development workflow involved AI-assisted code generation along with customization, testing, debugging, deployment, and multiple client-requested revisions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Restaurant menu with categorized food items
+- WhatsApp ordering integration
+- Image gallery
+- Contact information
+- Smooth navigation
+- Fast deployment using Netlify
+
+---
+
+🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Netlify
+
+---
+
+📷 Screenshots
+
+public/Screenshot
+
+---
+
+🚀 Live Website
+
+🔗 https://viyonas.netlify.app/
+
+---
+
+💼 My Contribution
+
+For this freelance project, I was responsible for:
+
+- Understanding the client's requirements
+- Customizing the website according to business needs
+- Implementing requested features
+- Testing and debugging issues
+- Optimizing the website for responsiveness
+- Deploying the website on Netlify
+- Making revisions based on client feedback
+
+AI-assisted development tools were used during the development process, while all customization, deployment, testing, and client communication were handled by me.
+
+---
+
+📚 What I Learned
+
+Working on this project helped me improve my understanding of:
+
+- React project structure
+- Responsive web design
+- Client communication
+- Debugging frontend issues
+- Website deployment
+- Iterative development based on feedback
+
+---
+
+👨‍💻 About
+
+This repository showcases one of my freelance projects completed while learning web development and working with real clients.
+
+If you have any suggestions or feedback, feel free to open an issue or connect with me.
